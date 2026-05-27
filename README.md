@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+Developer;GenAI+Builder;Learning+Full+Stack+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Computer+Vision+Developer+%7C+GenAI+Builder+%7C+Learning+Full+Stack+Development" />
 </p>
 
 ---
