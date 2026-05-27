@@ -102,13 +102,3 @@ class Daksh:
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <i>building intelligent systems & modern web experiences ⚡</i>
-</p>
