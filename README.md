@@ -56,7 +56,7 @@ class Daksh:
 ### languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
 ### ai.ml()
