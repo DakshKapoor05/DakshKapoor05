@@ -65,8 +65,16 @@ class Daksh:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-<p align="left">
-  OpenCV • MediaPipe • LangChain • Transformers • Scikit-learn
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### web.dev()
@@ -79,6 +87,29 @@ class Daksh:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## github.stats()
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=DakshKapoor05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKapoor05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=DakshKapoor05&theme=tokyonight&hide_border=true&background=00000000"
+  />
 </p>
 
 ---
