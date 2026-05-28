@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DakshKapoor05">
-    <img src="https://komarev.com/ghpvc/?username=DakshKapoor05&label=Profile%20Views&color=38BDF8&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DakshKapoor05&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 </p>
 
 <p align="center">
